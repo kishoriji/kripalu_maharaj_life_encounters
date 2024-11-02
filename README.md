@@ -24,5 +24,3 @@ You can explore the collection of quotes directly [here](https://kishoriji.githu
 ## Contributing
 
 Contributions are welcome! If you have stories, insights, or suggestions that align with the purpose of this repository, please feel free to submit a pull request or open an issue.
-
-update readme
